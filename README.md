@@ -15,11 +15,4 @@ Este es un proyecto simple en React que implementa el clásico juego de **Tres e
 - **`Board`**: Componente que representa el tablero del juego y contiene la lógica para determinar el estado de cada casilla.
 - **`Square`**: Componente que representa una casilla individual en el tablero.
 
-## Cómo ejecutar el proyecto
 
-Sigue estos pasos para configurar y ejecutar el proyecto localmente:
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/tres-en-raya.git
